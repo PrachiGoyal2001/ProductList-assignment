@@ -1,10 +1,6 @@
-<script setup>
-import ProductCard from './components/ProductCard.vue'
-</script>
 
 <template>
-  <product-card />
+  <div>
+    <RouterView/>
+  </div>
 </template>
-
-<style scoped>
-</style>

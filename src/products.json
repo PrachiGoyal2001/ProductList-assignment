@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 49.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Men's T-Shirt",
+    "price": 14.99,
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "Electric Kettle",
+    "price": 29.99,
+    "category": "Kitchen"
+  },
+  {
+    "id": 4,
+    "name": "Atomic Habits",
+    "price": 16.99,
+    "category": "Books"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 29.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Women's Jeans",
+    "price": 39.99,
+    "category": "Clothing"
+  },
+  {
+    "id": 7,
+    "name": "Cutting Board",
+    "price": 11.99,
+    "category": "Kitchen"
+  },
+  {
+    "id": 8,
+    "name": "The Great Gatsby",
+    "price": 10.99,
+    "category": "Books"
+  },
+  {
+    "id": 9,
+    "name": "USB-C Charger",
+    "price": 19.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "name": "Sports Cap",
+    "price": 9.99,
+    "category": "Clothing"
+  },
+  {
+    "id": 11,
+    "name": "Measuring Cups Set",
+    "price": 8.99,
+    "category": "Kitchen"
+  },
+  {
+    "id": 12,
+    "name": "Clean Code",
+    "price": 32.99,
+    "category": "Books"
+  },
+  {
+    "id": 13,
+    "name": "Smartphone Stand",
+    "price": 12.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 14,
+    "name": "Hooded Sweatshirt",
+    "price": 34.99,
+    "category": "Clothing"
+  },
+  {
+    "id": 15,
+    "name": "Non-Stick Frying Pan",
+    "price": 24.99,
+    "category": "Kitchen"
+  },
+  {
+    "id": 16,
+    "name": "The Pragmatic Programmer",
+    "price": 35.99,
+    "category": "Books"
+  }
+]
